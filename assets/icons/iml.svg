@@ -1,0 +1,39 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Bottle -->
+   <path 
+    d="M20 11H32" 
+    stroke="#006B52"
+    stroke-width="2.4"
+    stroke-linecap="round" 
+/>
+
+    <path
+        d="M22 11V16L18 21V40C18 41.1 18.9 42 20 42H32C33.1 42 34 41.1 34 40V21L30 16V11"
+        stroke="#006B52"
+        stroke-width="2.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
+
+    <!-- IML Label -->
+    <path
+        d="M18 25H34V34H18V25Z"
+        stroke="#006B52"
+        stroke-width="2.2"
+        stroke-linejoin="round"
+    />
+
+    <!-- Label detail -->
+    <path
+        d="M22 29H30"
+        stroke="#006B52"
+        stroke-width="2"
+        stroke-linecap="round"
+    />
+</svg>

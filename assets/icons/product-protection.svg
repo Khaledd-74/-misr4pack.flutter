@@ -1,0 +1,77 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Outer Protection Layer -->
+    <path
+        d="M26 7
+           C36.5 7 44.5 15.2 44.5 26
+           C44.5 36.8 36.5 45 26 45
+           C15.5 45 7.5 36.8 7.5 26
+           C7.5 15.2 15.5 7 26 7Z"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+    />
+
+    <!-- Middle Protection Layer -->
+    <path
+        d="M26 12.5
+           C34 12.5 40 18.4 40 26
+           C40 33.6 34 39.5 26 39.5
+           C18 39.5 12 33.6 12 26
+           C12 18.4 18 12.5 26 12.5Z"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+    />
+
+    <!-- Inner Protection Layer -->
+    <path
+        d="M26 18
+           C30.7 18 34 21.4 34 26
+           C34 30.6 30.7 34 26 34
+           C21.3 34 18 30.6 18 26
+           C18 21.4 21.3 18 26 18Z"
+        stroke="#0b5a43"
+        stroke-width="2"
+    />
+
+    <!-- Protected Core -->
+    <circle
+        cx="26"
+        cy="26"
+        r="3.2"
+        fill="#0b5a43"
+    />
+
+    <!-- Controlled Protection Points -->
+    <path
+        d="M26 7V10"
+        stroke="#0b5a43"
+        stroke-width="2"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 42V45"
+        stroke="#0b5a43"
+        stroke-width="2"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M7.5 26H10.5"
+        stroke="#0b5a43"
+        stroke-width="2"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M41.5 26H44.5"
+        stroke="#0b5a43"
+        stroke-width="2"
+        stroke-linecap="round"
+    />
+</svg>

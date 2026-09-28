@@ -1,0 +1,73 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Outer Circle -->
+    <circle
+        cx="26"
+        cy="26"
+        r="21"
+        stroke="#0b5a43"
+        stroke-width="2"
+    />
+
+    <!-- Fingerprint -->
+    <path
+        d="M26 14.5C19.8 14.5 15.5 19 15.5 25"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 18C21.7 18 19 20.9 19 25.2C19 31 17.5 34.5 15.8 37"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 21.5C23.6 21.5 22 23 22 25.5C22 31.5 21 35.5 19.5 39"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 14.5C32.2 14.5 36.5 19 36.5 25"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 18C30.3 18 33 20.9 33 25.2C33 31 34.5 34.5 36.2 37"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 21.5C28.4 21.5 30 23 30 25.5C30 31.5 31 35.5 32.5 39"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 25C25.2 25 24.5 25.7 24.5 26.5C24.5 32 24.2 36 23 40"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 25C26.8 25 27.5 25.7 27.5 26.5C27.5 32 27.8 36 29 40"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+</svg>

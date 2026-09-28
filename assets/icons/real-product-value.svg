@@ -1,0 +1,75 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Product -->
+    <path
+        d="M17 17L26 12L35 17V34L26 39L17 34V17Z"
+        stroke="#0b5a43"
+        stroke-width="2.1"
+        stroke-linejoin="round"
+    />
+
+    <!-- Product Top -->
+    <path
+        d="M17 17L26 22L35 17"
+        stroke="#0b5a43"
+        stroke-width="2.1"
+        stroke-linejoin="round"
+    />
+
+    <!-- Product Center -->
+    <path
+        d="M26 22V39"
+        stroke="#0b5a43"
+        stroke-width="2.1"
+        stroke-linecap="round"
+    />
+
+    <!-- Added Value / Highlight -->
+    <path
+        d="M21 27H31"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M21 31H28"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <!-- Value Accents -->
+    <path
+        d="M11 20V15"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M8.5 17.5H13.5"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M41 32V37"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M38.5 34.5H43.5"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+</svg>

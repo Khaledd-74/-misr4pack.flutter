@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <g fill="none" stroke="#006B52" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Printer body -->
+    <path d="M220 330h360c44 0 80 36 80 80v150H140V410c0-44 36-80 80-80Z"/>
+    <path d="M220 330V180h360v150"/>
+    <path d="M220 560v90h360v-90"/>
+    <!-- Paper -->
+    <path d="M270 180v-40h260v40"/>
+    <path d="M270 410h260v190H270z"/>
+    <!-- Print lines -->
+    <path d="M315 470h170"/>
+    <path d="M315 525h130"/>
+    <!-- Status light -->
+    <circle cx="610" cy="410" r="12" fill="#006B52" stroke="none"/>
+    <!-- Paper feed -->
+    <path d="M320 650v40h160v-40"/>
+  </g>
+</svg>

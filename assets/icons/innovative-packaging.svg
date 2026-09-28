@@ -1,0 +1,73 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Outer Packaging Layers -->
+    <path
+        d="M10 19L26 11L42 19L26 27L10 19Z"
+        stroke="#0b5a43"
+        stroke-width="2.2"
+        stroke-linejoin="round"
+    />
+
+    <path
+        d="M10 19V28L26 36L42 28V19"
+        stroke="#0b5a43"
+        stroke-width="2.2"
+        stroke-linejoin="round"
+    />
+
+    <path
+        d="M10 28V36L26 44L42 36V28"
+        stroke="#0b5a43"
+        stroke-width="2.2"
+        stroke-linejoin="round"
+    />
+
+    <!-- Inner Innovation Core -->
+    <circle
+        cx="26"
+        cy="19"
+        r="4.2"
+        fill="#0b5a43"
+    />
+
+    <!-- Innovation Rays -->
+    <path
+        d="M26 6V9"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M17 9L19 11"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M35 9L33 11"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M14 14H17"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M35 14H38"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+</svg>

@@ -1,0 +1,53 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Paper Label -->
+    <path
+        d="M16 12
+           H34
+           C35.1 12 36 12.9 36 14
+           V34
+           C36 35.1 35.1 36 34 36
+           H16
+           C14.9 36 14 35.1 14 34
+           V14
+           C14 12.9 14.9 12 16 12
+           Z"
+        stroke="#006B52"
+        stroke-width="2.4"
+        stroke-linejoin="round"
+    />
+
+    <!-- Folded Corner -->
+    <path
+        d="M29 12
+           V19
+           H36"
+        stroke="#006B52"
+        stroke-width="2.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
+
+    <!-- Label Detail -->
+    <path
+        d="M20 25
+           H30"
+        stroke="#006B52"
+        stroke-width="2.2"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M20 30
+           H27"
+        stroke="#006B52"
+        stroke-width="2.2"
+        stroke-linecap="round"
+    />
+</svg>
+

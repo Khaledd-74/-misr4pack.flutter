@@ -1,0 +1,76 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="52"
+    height="52"
+    viewBox="0 0 52 52"
+    fill="none"
+>
+    <!-- Production Flow -->
+    <path
+        d="M9 32H16L20 24L26 35L31 27L35 32H43"
+        stroke="#0b5a43"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
+
+    <!-- Process Line -->
+    <path
+        d="M9 38H43"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <!-- Precision Checkpoints -->
+    <circle
+        cx="16"
+        cy="32"
+        r="2.5"
+        fill="#0b5a43"
+    />
+
+    <circle
+        cx="26"
+        cy="35"
+        r="2.5"
+        fill="#0b5a43"
+    />
+
+    <circle
+        cx="35"
+        cy="32"
+        r="2.5"
+        fill="#0b5a43"
+    />
+
+    <!-- Control / Consistency -->
+    <path
+        d="M16 18V14"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M26 18V11"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <path
+        d="M36 18V14"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+
+    <!-- Top Control Line -->
+    <path
+        d="M13 11H39"
+        stroke="#0b5a43"
+        stroke-width="1.8"
+        stroke-linecap="round"
+    />
+</svg>
